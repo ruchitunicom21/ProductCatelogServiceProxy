@@ -1,8 +1,0 @@
-org\example\productcatalogserviceproxy\Stubs\ProductServiceStub.class
-org\example\productcatalogserviceproxy\Controllers\ProductControllerFlowTest.class
-org\example\productcatalogserviceproxy\Repositories\ProductRepoTest.class
-org\example\productcatalogserviceproxy\Controllers\ProductControllerMVCTest.class
-org\example\productcatalogserviceproxy\Controllers\ProductControllerTest.class
-org\example\productcatalogserviceproxy\RandomTest.class
-org\example\productcatalogserviceproxy\CalculatorTest.class
-org\example\productcatalogserviceproxy\ProductCatalogServiceProxyApplicationTests.class

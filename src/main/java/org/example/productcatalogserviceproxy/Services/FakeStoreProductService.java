@@ -5,7 +5,7 @@ import org.example.productcatalogserviceproxy.Clients.FakeStore.Dtos.FakeStorePr
 import org.example.productcatalogserviceproxy.Dtos.ProductDto;
 import org.example.productcatalogserviceproxy.Models.Category;
 import org.example.productcatalogserviceproxy.Models.Product;
-import org.springframework.beans.factory.BeanFactoryExtensionsKt;
+
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.context.annotation.Primary;
 import org.springframework.data.redis.core.RedisTemplate;
